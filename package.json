@@ -1,0 +1,28 @@
+{
+  "name": "cordova-toforeground",
+  "version": "1.0.0",
+  "description": "Allows the app to bring itself to the foreground when it was running in the background",
+  "cordova": {
+    "id": "com.diusrex.toforeground",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rightclickdesign/cordova-toforeground.git"
+  },
+  "keywords": [
+    "android",
+    "background",
+    "to foreground",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Right Click Design",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rightclickdesign/cordova-toforeground/issues"
+  },
+  "homepage": "https://github.com/rightclickdesign/cordova-toforeground#readme"
+}
