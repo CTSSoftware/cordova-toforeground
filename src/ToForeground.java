@@ -17,7 +17,7 @@
        under the License.
 */
 
-package com.diusrex.toforeground;
+package com.cts.toforeground;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
