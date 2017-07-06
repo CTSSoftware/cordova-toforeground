@@ -6,8 +6,8 @@
     <license>Apache 2.0</license>
     <keywords>android,background,to foreground</keywords>
     <repo>https://github.com/rightclickdesign/cordova-toforeground.git</repo>
-    <js-module name="ToForeground" src="www/ToForeground.js">
-        <clobbers target="ToForeground" />
+    <js-module name="toForeground" src="www/ToForeground.js">
+        <clobbers target="cordova.plugins.toForeground" />
     </js-module>
 
     <!-- android -->
