@@ -9,7 +9,7 @@ Installation
 Inside the cordova project:
 
 ```
-cordova plugin add https://github.com/rightclickdesign/cordova-toforeground
+cordova plugin add https://github.com/ctssoftware/cordova-toforeground
 ```
 
 

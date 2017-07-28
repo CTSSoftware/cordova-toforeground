@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rightclickdesign/cordova-toforeground.git"
+    "url": "git+https://github.com/ctssoftware/cordova-toforeground.git"
   },
   "keywords": [
     "android",
@@ -19,10 +19,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Right Click Design",
+  "author": "CTS Software",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/rightclickdesign/cordova-toforeground/issues"
+    "url": "https://github.com/ctssoftware/cordova-toforeground/issues"
   },
-  "homepage": "https://github.com/rightclickdesign/cordova-toforeground#readme"
+  "homepage": "https://github.com/ctssoftware/cordova-toforeground#readme"
 }
